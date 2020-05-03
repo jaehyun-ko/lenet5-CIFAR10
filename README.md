@@ -5,8 +5,10 @@ This is part of the final project of COMP551 (Winter2020).We were asked to compa
 The iPython notebook in this repo includes
 - dataset loading
 - Lenet5 definition(Pytorch)
-- Hyperparameters tuning(learning rate and dropout rate)
-- test with data augmentation
+- Hyperparameters tuning(learning rate and dropout rate) with early stopping
+<img src="https://github.com/tudou0002/lenet5-CIFAR10/blob/master/plot/cnn_params.png" width="600">  
+
+- test with/without data augmentation
 - confusion matrix and ROC curve
 
 # Result 
